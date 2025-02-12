@@ -35,4 +35,16 @@ export default [
         dates: "24 May, 2024 - 28 May, 2024",
         text: "Beautiful Trek in the heart of westren himalyas"
     },
+    {
+        id: 4,
+        img: {
+            src: "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/82/15/fc/bansheri.jpg?w=1200&h=-1&s=1",
+            alt: "tosh-trek"
+        },
+        title: "Tosh",
+        country: "India",
+        googleMapsLink: "https://www.google.com/maps/search/kheerganga+trek/@32.0053121,77.3305277,12z/data=!3m1!4b1?entry=ttu&g_ep=EgoyMDI1MDEyMi4wIKXMDSoASAFQAw%3D%3D",
+        dates: "24 May, 2024 - 28 May, 2024",
+        text: "Beautiful Trek in the heart of westren himalyas"
+    },
 ]
